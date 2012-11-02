@@ -1,0 +1,2 @@
+python add_text.py -cat:MyCategory -text:"hello" -except:"\{\{([Tt]emplate:|)[Dd]ocumentation [Ss]ubpage" -up
+python pagefromfile.py -notitle -start:xxxx -end:yyyy -file:my_file
